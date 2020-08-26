@@ -1,10 +1,10 @@
 {
-    'ISPB': '14511781',
-    'Nome_Reduzido': 'BARI CIA HIPOTECÁRIA',
-    'Número_Código': '268',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'Internet',
-    'Nome_Extenso': 'BARI COMPANHIA HIPOTECÁRIA',
-    'Início_da_Operação': '21/12/2017'
-  ,
+    "ISPB": "14511781",
+    "Nome_Reduzido": "BARI CIA HIPOTECÁRIA",
+    "Número_Código": "268",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "Internet",
+    "Nome_Extenso": "BARI COMPANHIA HIPOTECÁRIA",
+    "Início_da_Operação": "21/12/2017"
+  
   }

@@ -1,10 +1,10 @@
 {
-    'ISPB': '13720915',
-    'Nome_Reduzido': 'BCO WESTERN UNION',
-    'Número_Código': '119',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Banco Western Union do Brasil S.A.',
-    'Início_da_Operação': '10/10/2011'
-  ,
+    "ISPB": "13720915",
+    "Nome_Reduzido": "BCO WESTERN UNION",
+    "Número_Código": "119",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Banco Western Union do Brasil S.A.",
+    "Início_da_Operação": "10/10/2011"
+  
   }

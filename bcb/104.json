@@ -1,10 +1,10 @@
 {
-    'ISPB': '13293225',
-    'Nome_Reduzido': 'ÓRAMA DTVM S.A.',
-    'Número_Código': '325',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Órama Distribuidora de Títulos e Valores Mobiliários S.A.',
-    'Início_da_Operação': '31/05/2019'
-  ,
+    "ISPB": "13293225",
+    "Nome_Reduzido": "ÓRAMA DTVM S.A.",
+    "Número_Código": "325",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Órama Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "Início_da_Operação": "31/05/2019"
+  
   }

@@ -1,10 +1,10 @@
 {
-    'ISPB': '16501555',
-    'Nome_Reduzido': 'STONE PAGAMENTOS S.A.',
-    'Número_Código': '197',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Stone Pagamentos S.A.',
-    'Início_da_Operação': '18/10/2017'
-  ,
+    "ISPB": "16501555",
+    "Nome_Reduzido": "STONE PAGAMENTOS S.A.",
+    "Número_Código": "197",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Stone Pagamentos S.A.",
+    "Início_da_Operação": "18/10/2017"
+  
   }
