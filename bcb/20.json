@@ -1,10 +1,10 @@
 {
-    'ISPB': '01330387',
-    'Nome_Reduzido': 'CREHNOR LARANJEIRAS',
-    'Número_Código': '350',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'Internet',
-    'Nome_Extenso': 'COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CE',
-    'Início_da_Operação': '27/05/2020'
-  ,
+    "ISPB": "01330387",
+    "Nome_Reduzido": "CREHNOR LARANJEIRAS",
+    "Número_Código": "350",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "Internet",
+    "Nome_Extenso": "COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CE",
+    "Início_da_Operação": "27/05/2020"
+  
   }

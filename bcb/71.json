@@ -1,10 +1,10 @@
 {
-    'ISPB': '07853842',
-    'Nome_Reduzido': 'CCR DE OURO',
-    'Número_Código': '286',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'COOPERATIVA DE CRÉDITO RURAL DE OURO   SULCREDI/OURO',
-    'Início_da_Operação': '17/09/2018'
-  ,
+    "ISPB": "07853842",
+    "Nome_Reduzido": "CCR DE OURO",
+    "Número_Código": "286",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "COOPERATIVA DE CRÉDITO RURAL DE OURO   SULCREDI/OURO",
+    "Início_da_Operação": "17/09/2018"
+  
   }

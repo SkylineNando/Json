@@ -1,10 +1,10 @@
 {
-    'ISPB': '01800019',
-    'Nome_Reduzido': 'PORTOCRED S.A. - CFI',
-    'Número_Código': '108',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO                          ',
-    'Início_da_Operação': '03/11/2011'
-  ,
+    "ISPB": "01800019",
+    "Nome_Reduzido": "PORTOCRED S.A. - CFI",
+    "Número_Código": "108",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO                          ",
+    "Início_da_Operação": "03/11/2011"
+  
   }

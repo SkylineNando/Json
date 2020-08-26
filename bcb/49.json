@@ -1,10 +1,10 @@
 {
-    'ISPB': '04307598',
-    'Nome_Reduzido': 'FIDUCIA SCMEPP LTDA',
-    'Número_Código': '382',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L',
-    'Início_da_Operação': '31/07/2020'
-  ,
+    "ISPB": "04307598",
+    "Nome_Reduzido": "FIDUCIA SCMEPP LTDA",
+    "Número_Código": "382",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L",
+    "Início_da_Operação": "31/07/2020"
+  
   }

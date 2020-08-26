@@ -1,10 +1,10 @@
 {
-    'ISPB': '00250699',
-    'Nome_Reduzido': 'AGK CC S.A.',
-    'Número_Código': '272',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'AGK CORRETORA DE CAMBIO S.A.',
-    'Início_da_Operação': '21/11/2018'
-  ,
+    "ISPB": "00250699",
+    "Nome_Reduzido": "AGK CC S.A.",
+    "Número_Código": "272",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "AGK CORRETORA DE CAMBIO S.A.",
+    "Início_da_Operação": "21/11/2018"
+  
   }

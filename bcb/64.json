@@ -1,10 +1,10 @@
 {
-    'ISPB': '07207996',
-    'Nome_Reduzido': 'BCO BRADESCO FINANC. S.A.',
-    'Número_Código': '394',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Banco Bradesco Financiamentos S.A.',
-    'Início_da_Operação': '22/04/2002'
-  ,
+    "ISPB": "07207996",
+    "Nome_Reduzido": "BCO BRADESCO FINANC. S.A.",
+    "Número_Código": "394",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Banco Bradesco Financiamentos S.A.",
+    "Início_da_Operação": "22/04/2002"
+  
   }

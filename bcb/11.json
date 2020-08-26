@@ -1,10 +1,10 @@
 {
-    'ISPB': '00556603',
-    'Nome_Reduzido': 'BANCO BARI S.A.',
-    'Número_Código': '330',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'BANCO BARI DE INVESTIMENTOS E FINANCIAMENTOS S.A.',
-    'Início_da_Operação': '22/07/2019'
-  ,
+    "ISPB": "00556603",
+    "Nome_Reduzido": "BANCO BARI S.A.",
+    "Número_Código": "330",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "BANCO BARI DE INVESTIMENTOS E FINANCIAMENTOS S.A.",
+    "Início_da_Operação": "22/07/2019"
+  
   }

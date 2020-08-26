@@ -1,10 +1,10 @@
 {
-    'ISPB': '08609934',
-    'Nome_Reduzido': 'MONEYCORP BCO DE CÂMBIO S.A.',
-    'Número_Código': '259',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'MONEYCORP BANCO DE CÂMBIO S.A.',
-    'Início_da_Operação': '27/01/2020'
-  ,
+    "ISPB": "08609934",
+    "Nome_Reduzido": "MONEYCORP BCO DE CÂMBIO S.A.",
+    "Número_Código": "259",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "MONEYCORP BANCO DE CÂMBIO S.A.",
+    "Início_da_Operação": "27/01/2020"
+  
   }

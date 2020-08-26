@@ -1,10 +1,10 @@
 {
-    'ISPB': '04632856',
-    'Nome_Reduzido': 'CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.',
-    'Número_Código': '097',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Credisis - Central de Cooperativas de Crédito Ltda.',
-    'Início_da_Operação': '08/02/2011'
-  ,
+    "ISPB": "04632856",
+    "Nome_Reduzido": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
+    "Número_Código": "097",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Credisis - Central de Cooperativas de Crédito Ltda.",
+    "Início_da_Operação": "08/02/2011"
+  
   }

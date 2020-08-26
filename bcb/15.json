@@ -1,10 +1,10 @@
 {
-    'ISPB': '00997185',
-    'Nome_Reduzido': 'BCO B3 S.A.',
-    'Número_Código': '096',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Banco B3 S.A.',
-    'Início_da_Operação': '12/11/2004'
-  ,
+    "ISPB": "00997185",
+    "Nome_Reduzido": "BCO B3 S.A.",
+    "Número_Código": "096",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Banco B3 S.A.",
+    "Início_da_Operação": "12/11/2004"
+  
   }

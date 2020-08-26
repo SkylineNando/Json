@@ -1,10 +1,10 @@
 {
-    'ISPB': '05790149',
-    'Nome_Reduzido': 'CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO',
-    'Número_Código': '114',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Central Cooperativa de Crédito no Estado do Espírito Santo - CECOOP',
-    'Início_da_Operação': '27/10/2011'
-  ,
+    "ISPB": "05790149",
+    "Nome_Reduzido": "CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO",
+    "Número_Código": "114",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Central Cooperativa de Crédito no Estado do Espírito Santo - CECOOP",
+    "Início_da_Operação": "27/10/2011"
+  
   }

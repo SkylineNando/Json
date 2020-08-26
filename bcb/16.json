@@ -1,10 +1,10 @@
 {
-    'ISPB': '01023570',
-    'Nome_Reduzido': 'BCO RABOBANK INTL BRASIL S.A.',
-    'Número_Código': '747',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Banco Rabobank International Brasil S.A.',
-    'Início_da_Operação': '22/04/2002'
-  ,
+    "ISPB": "01023570",
+    "Nome_Reduzido": "BCO RABOBANK INTL BRASIL S.A.",
+    "Número_Código": "747",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Banco Rabobank International Brasil S.A.",
+    "Início_da_Operação": "22/04/2002"
+  
   }

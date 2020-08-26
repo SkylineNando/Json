@@ -1,10 +1,10 @@
 {
-    'ISPB': '10264663',
-    'Nome_Reduzido': 'BANCOSEGURO S.A.',
-    'Número_Código': '081',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'BancoSeguro S.A.',
-    'Início_da_Operação': '24/10/2008'
-  ,
+    "ISPB": "10264663",
+    "Nome_Reduzido": "BANCOSEGURO S.A.",
+    "Número_Código": "081",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "BancoSeguro S.A.",
+    "Início_da_Operação": "24/10/2008"
+  
   }

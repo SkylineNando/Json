@@ -1,10 +1,10 @@
 {
-    'ISPB': '00517645',
-    'Nome_Reduzido': 'BCO RIBEIRAO PRETO S.A.',
-    'Número_Código': '741',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'BANCO RIBEIRAO PRETO S.A.',
-    'Início_da_Operação': '22/04/2002'
-  ,
+    "ISPB": "00517645",
+    "Nome_Reduzido": "BCO RIBEIRAO PRETO S.A.",
+    "Número_Código": "741",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "BANCO RIBEIRAO PRETO S.A.",
+    "Início_da_Operação": "22/04/2002"
+  
   }

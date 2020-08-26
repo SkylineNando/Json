@@ -1,10 +1,10 @@
 {
-    'ISPB': '10398952',
-    'Nome_Reduzido': 'CRESOL CONFEDERAÇÃO',
-    'Número_Código': '133',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E',
-    'Início_da_Operação': '02/05/2016'
-  ,
+    "ISPB": "10398952",
+    "Nome_Reduzido": "CRESOL CONFEDERAÇÃO",
+    "Número_Código": "133",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E",
+    "Início_da_Operação": "02/05/2016"
+  
   }

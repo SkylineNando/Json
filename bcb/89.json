@@ -1,10 +1,10 @@
 {
-    'ISPB': '10664513',
-    'Nome_Reduzido': 'BCO AGIBANK S.A.',
-    'Número_Código': '121',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Banco Agibank S.A.',
-    'Início_da_Operação': '04/04/2012'
-  ,
+    "ISPB": "10664513",
+    "Nome_Reduzido": "BCO AGIBANK S.A.",
+    "Número_Código": "121",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Banco Agibank S.A.",
+    "Início_da_Operação": "04/04/2012"
+  
   }

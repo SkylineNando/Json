@@ -1,10 +1,10 @@
 {
-    'ISPB': '03012230',
-    'Nome_Reduzido': 'HIPERCARD BM S.A.',
-    'Número_Código': '062',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Hipercard Banco Múltiplo S.A.',
-    'Início_da_Operação': '22/04/2002'
-  ,
+    "ISPB": "03012230",
+    "Nome_Reduzido": "HIPERCARD BM S.A.",
+    "Número_Código": "062",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Hipercard Banco Múltiplo S.A.",
+    "Início_da_Operação": "22/04/2002"
+  
   }

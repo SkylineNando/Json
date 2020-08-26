@@ -1,10 +1,10 @@
 {
-    'ISPB': '10690848',
-    'Nome_Reduzido': 'BCO DA CHINA BRASIL S.A.',
-    'Número_Código': '083',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Banco da China Brasil S.A.',
-    'Início_da_Operação': '14/07/2009'
-  ,
+    "ISPB": "10690848",
+    "Nome_Reduzido": "BCO DA CHINA BRASIL S.A.",
+    "Número_Código": "083",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Banco da China Brasil S.A.",
+    "Início_da_Operação": "14/07/2009"
+  
   }

@@ -1,10 +1,10 @@
 {
-    'ISPB': '03017677',
-    'Nome_Reduzido': 'BCO. J.SAFRA S.A.',
-    'Número_Código': '074',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Banco J. Safra S.A.',
-    'Início_da_Operação': '26/08/2004'
-  ,
+    "ISPB": "03017677",
+    "Nome_Reduzido": "BCO. J.SAFRA S.A.",
+    "Número_Código": "074",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Banco J. Safra S.A.",
+    "Início_da_Operação": "26/08/2004"
+  
   }

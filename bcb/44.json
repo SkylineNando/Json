@@ -1,10 +1,10 @@
 {
-    'ISPB': '03751794',
-    'Nome_Reduzido': 'TERRA INVESTIMENTOS DTVM',
-    'Número_Código': '307',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Terra Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda.',
-    'Início_da_Operação': '25/10/2018'
-  ,
+    "ISPB": "03751794",
+    "Nome_Reduzido": "TERRA INVESTIMENTOS DTVM",
+    "Número_Código": "307",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Terra Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda.",
+    "Início_da_Operação": "25/10/2018"
+  
   }

@@ -1,10 +1,10 @@
 {
-    'ISPB': '07945233',
-    'Nome_Reduzido': 'POLOCRED SCMEPP LTDA.',
-    'Número_Código': '093',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT',
-    'Início_da_Operação': '09/11/2010'
-  ,
+    "ISPB": "07945233",
+    "Nome_Reduzido": "POLOCRED SCMEPP LTDA.",
+    "Número_Código": "093",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT",
+    "Início_da_Operação": "09/11/2010"
+  
   }

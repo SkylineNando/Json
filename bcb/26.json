@@ -1,10 +1,10 @@
 {
-    'ISPB': '02276653',
-    'Nome_Reduzido': 'TRINUS CAPITAL DTVM',
-    'Número_Código': '360',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.',
-    'Início_da_Operação': '16/07/2020'
-  ,
+    "ISPB": "02276653",
+    "Nome_Reduzido": "TRINUS CAPITAL DTVM",
+    "Número_Código": "360",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "Início_da_Operação": "16/07/2020"
+  
   }

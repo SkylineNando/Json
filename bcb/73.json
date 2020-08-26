@@ -1,10 +1,10 @@
 {
-    'ISPB': '08240446',
-    'Nome_Reduzido': 'CCR DE IBIAM',
-    'Número_Código': '391',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'Internet',
-    'Nome_Extenso': 'COOPERATIVA DE CREDITO RURAL DE IBIAM - SULCREDI/IBIAM',
-    'Início_da_Operação': '10/07/2020'
-  ,
+    "ISPB": "08240446",
+    "Nome_Reduzido": "CCR DE IBIAM",
+    "Número_Código": "391",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "Internet",
+    "Nome_Extenso": "COOPERATIVA DE CREDITO RURAL DE IBIAM - SULCREDI/IBIAM",
+    "Início_da_Operação": "10/07/2020"
+  
   }

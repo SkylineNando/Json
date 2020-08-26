@@ -1,10 +1,10 @@
 {
-    'ISPB': '04391007',
-    'Nome_Reduzido': 'CIP Sitraf',
-    'Número_Código': 'n/a',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Câmara Interbancária de Pagamentos',
-    'Início_da_Operação': '27/11/2002'
-  ,
+    "ISPB": "04391007",
+    "Nome_Reduzido": "CIP Sitraf",
+    "Número_Código": "n/a",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Câmara Interbancária de Pagamentos",
+    "Início_da_Operação": "27/11/2002"
+  
   }

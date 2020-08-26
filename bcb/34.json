@@ -1,10 +1,10 @@
 {
-    'ISPB': '02992335',
-    'Nome_Reduzido': 'CIP Siloc',
-    'Número_Código': 'n/a',
-    'Participa_da_Compe': 'Não',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Câmara Interbancária de Pagamentos - CIP - LDL',
-    'Início_da_Operação': '13/02/2004'
-  ,
+    "ISPB": "02992335",
+    "Nome_Reduzido": "CIP Siloc",
+    "Número_Código": "n/a",
+    "Participa_da_Compe": "Não",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Câmara Interbancária de Pagamentos - CIP - LDL",
+    "Início_da_Operação": "13/02/2004"
+  
   }

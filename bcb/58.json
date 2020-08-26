@@ -1,10 +1,10 @@
 {
-    'ISPB': '04913711',
-    'Nome_Reduzido': 'BCO DO EST. DO PA S.A.',
-    'Número_Código': '037',
-    'Participa_da_Compe': 'Sim',
-    'Acesso_Principal': 'RSFN',
-    'Nome_Extenso': 'Banco do Estado do Pará S.A.',
-    'Início_da_Operação': '22/04/2002'
-  ,
+    "ISPB": "04913711",
+    "Nome_Reduzido": "BCO DO EST. DO PA S.A.",
+    "Número_Código": "037",
+    "Participa_da_Compe": "Sim",
+    "Acesso_Principal": "RSFN",
+    "Nome_Extenso": "Banco do Estado do Pará S.A.",
+    "Início_da_Operação": "22/04/2002"
+  
   }
