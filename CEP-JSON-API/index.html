@@ -1,0 +1,93 @@
+<script type="text/javascript" >
+   function clear_zipcode() {
+           //Limpa valores do formulário de cep.
+           document.getElementById('gaddress').value=("");
+           document.getElementById('gneighborhood').value=("");
+           document.getElementById('gcity').value=("");
+           document.getElementById('gstate').value=("");
+   }
+   
+   function meu_callback(conteudo) {
+       if (!("erro" in conteudo)) {
+           //Atualiza os campos com os valores.
+           document.getElementById('gaddress').value=(conteudo.logradouro);
+           document.getElementById('gneighborhood').value=(conteudo.bairro);
+           document.getElementById('gcity').value=(conteudo.localidade);
+           document.getElementById('gstate').value=(conteudo.uf);
+       } //end if.
+       else {
+           //CEP não Encontrado.
+           clear_zipcode();
+           alert("CEP não encontrado.");
+       }
+   }
+       
+   function search_zipcode(valor) {
+   
+       //Nova variável "cep" somente com dígitos.
+       var cep = valor.replace(/\D/g, '');
+   
+       //Verifica se campo cep possui valor informado.
+       if (cep != "") {
+   
+           //Expressão regular para validar o CEP.
+           var validacep = /^[0-9]{8}$/;
+   
+           //Valida o formato do CEP.
+           if(validacep.test(cep)) {
+   
+               //Preenche os campos com "..." enquanto consulta webservice.
+               document.getElementById('gaddress').value="...";
+               document.getElementById('gneighborhood').value="...";
+               document.getElementById('gcity').value="...";
+               document.getElementById('gstate').value="...";
+   
+               //Cria um elemento javascript.
+               var script = document.createElement('script');
+   
+               //Sincroniza com o callback.
+               script.src = '//viacep.com.br/ws/'+ cep + '/json/?callback=meu_callback';
+   
+               //Insere script no documento e carrega o conteúdo.
+               document.body.appendChild(script);
+   
+           } //end if.
+           else {
+               //cep é inválido.
+               clear_zipcode();
+               alert("Formato de CEP inválido.");
+           }
+       } //end if.
+       else {
+           //cep sem valor, limpa formulário.
+           clear_zipcode();
+       }
+   };
+   
+</script>
+
+<form>
+      <div class='col-md-3 form-group'>
+         <input name='gzipcod' type='text' id='gzipcod' onblur='search_zipcode(this.value)' maxlength='8' placeholder='CEP (ZIPCOD)*' required>
+      </div>
+      <div class='col-md-9 form-group'>
+         <input name='gaddress' type='text' id='gaddress' placeholder='Endereço (ADDRESS)*' required>
+      </div>
+      <div class='col-md-3 form-group'>
+         <input name='gneighborhood' type='text' id='gneighborhood' placeholder='Bairro (Neighborhood)' required>
+      </div>
+      <div class='col-md-4 form-group'>
+         <input name='gcity' type='text' id='gcity' placeholder='Cidade (CITY)*' required>
+      </div>
+      <div class='col-md-3 form-group'>
+         <input name='gstate' type='text' id='gstate' placeholder='Estado (STATE)*' required>
+      </div>
+      <div class='col-md-2 form-group'>
+         <input name='gcoutry' type='text' id='gcoutry' placeholder='Pais (COUTRY)*' required>
+      </div>
+                                                                                                   
+      <div class='col-md-6 form-group'>
+         <button type='submit' class='btn-form1-submit'>Cadastrar</button>
+      </div>
+   </div>
+</form>
