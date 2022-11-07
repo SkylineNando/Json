@@ -1,0 +1,42 @@
+<script type="text/javascript" >
+   function checkCnpj(cnpj){
+       $.ajax({
+           'url': 'https://brasilapi.com.br/api/cnpj/v1/'+ cnpj,
+           'type': "GET",
+           'dataType': 'json',
+           'success': function(data){
+               if(data.razao_social == undefined){
+                  alert(data.status + ' ' + data.message)
+               }else{
+                   document.getElementById('uf').value = data.uf;
+                   document.getElementById('cep').value = data.cep;
+                   document.getElementById('bairro').value = data.bairro;
+                   document.getElementById('numero').value = data.numero;
+                   document.getElementById('municipio').value = data.municipio;
+                   document.getElementById('logradouro').value = data.logradouro;
+                   document.getElementById('complemento').value = data.complemento;
+                   document.getElementById('descricao_tipo_de_logradouro').value = data.descricao_tipo_de_logradouro;
+                   document.getElementById('razaosocial').value = data.razao_social;
+                   document.getElementById('ddd_telefone_1').value = data.ddd_telefone_1;
+               }
+           } 
+       })
+   }
+</script>
+
+<form method='post'  action=''>
+   <div class='row'>
+      <div class='col-md-5 form-group'> <input name='cnpj' type='text' id='cnpj'  onblur='checkCnpj(this.value)' placeholder='CNPJ*' required> </div>
+      <div class='col-md-7 form-group'> <input name='razaosocial' type='text' id='razaosocial' placeholder='Razão Social*' required> </div>
+      <div class='col-md-2 form-group'> <input name='descricao_tipo_de_logradouro' type='text' id='descricao_tipo_de_logradouro' placeholder='Razão Social*' required> </div>
+      <div class='col-md-5 form-group'> <input name='logradouro' type='text' id='logradouro' placeholder='Razão Social*' required> </div>
+      <div class='col-md-2 form-group'> <input name='numero' type='text' id='numero' placeholder='Razão Social*' required> </div>
+      <div class='col-md-3 form-group'> <input name='complemento' type='text' id='complemento' placeholder='Razão Social*' required> </div>
+      <div class='col-md-3 form-group'> <input name='bairro' type='text' id='bairro' placeholder='Razão Social*' required> </div>
+      <div class='col-md-2 form-group'> <input name='cep' type='text' id='cep' placeholder='Razão Social*' required> </div>
+      <div class='col-md-2 form-group'> <input name='uf' type='text' id='uf' placeholder='Razão Social*' required> </div>
+      <div class='col-md-5 form-group'> <input name='municipio' type='text' id='municipio' placeholder='Razão Social*' required> </div>
+      <div class='col-md-3 form-group'> <input name='ddd_telefone_1' type='text' id='ddd_telefone_1' placeholder='Razão Social*' required> </div>
+      <div class='col-md-3'> <button type='submit' class='btn-form1-submit'>VERIFIQUE AGORA</button> </div>
+   </div>
+</form>
